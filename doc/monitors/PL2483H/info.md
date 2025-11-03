@@ -49,4 +49,5 @@
     * VGA Flash: [24C02RP](ST24C02.PDF)
     * HDMI Flash: [24C02RP](ST24C02.PDF)
     * Flash: [25X40CLNIC](W25X40CL.PDF)
+    * Step-Down: [G5728BTO1U](https://antenna-dvb-t2.ru/show_dcdc.php?id=302) [datasheet](G5728TO1U.pdf)
 * [Прошивки](https://remont-aud.net/dump/mnt/iiyama_pl2483h_shassi_main_board_pl2483h/152-1-0-140811)
